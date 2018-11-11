@@ -1,6 +1,6 @@
 # Site settings
-title: "Jekyll Resume Template"
-description: "A resume template for Jekyll and GitHub Pages sites."
+title: "Resume of Zijun Ma"
+description: "On-line resume for Zijun Ma."
 
 # Build settings
 markdown: kramdown
@@ -10,50 +10,49 @@ sass:
 
 # Resume settings
 resume_avatar:                  "true"
-resume_name:                    "Lisa M. Simpson"
-resume_title:                   "VP of Global Communications"
+resume_name:                    "Zijun Ma"
+resume_title:                   "About Me"
 
 # used for the contact button in _layouts/resume.html
-resume_contact_email:           "lisasimpson@youremailaddress.com"
+resume_contact_email:           "mazijun2017@outlook.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
-resume_contact_telephone:       "555-7334"
-resume_contact_address:         "742 Evergreen Terrace, Springfield"
+resume_contact_telephone:       "608-598-7055"
+resume_contact_address:         "Sheboygan Ave, Madison, Wisconsin"
 
-resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
-display_header_contact_info:    "false"
+resume_header_contact_info:     "Sheboygan Ave, Madison • 608-598-7055 • mazijun2017@outlook.com"
+display_header_contact_info:    true
 
-resume_header_intro: "<p>This is the executive summary. You should write a few brief, concise, and meaningful sentences about yourself from a professional context, and your immediate career goals. Make the length appropriate for your needs, but keep it brief and concise</p>"
+resume_header_intro: <p>I am currently a first-year master student of Department of Computer Sciences in University of Wisconsin-Madison. My advisor is <a href="http://pages.cs.wisc.edu/~akella/">Prof. Aditya Akella</a>.<br/><br/>My research interest lies in the programmable data plane of software defined networking. In recent years, there is a trend to use the programmable data plane to offload services that traditionally reside in the network edge. Such a trend could lead to a more innovative network architecture and customized protocol design.</p>
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
 # or remove the resume_looking_for_work option entirely
 # to leave blank
-resume_looking_for_work:        "yes"
+# resume_looking_for_work:        "yes"
 
 # Decide which sections to use
 # comment out to hide
 resume_section_experience:      true
 resume_section_education:       true
-resume_section_projects:        true
+resume_section_publications:    true
 resume_section_skills:          true
-resume_section_recognition:     true
-resume_section_links:           true
-resume_section_associations:    true
+resume_section_honor:           true
 # resume_section_interests:       true
 
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
-  resume_github_url:            "https://github.com/jglovier/resume-template"
-  resume_twitter_url:           "http://twitter.com/jglovier"
-  resume_dribbble_url:          "https://dribbble.com/jag"
+  resume_github_url:            "https://github.com/mzj14/"
+  resume_twitter_url:           false
+  resume_dribbble_url:          false
   # resume_facebook_url:          "insert Facebook URL here"
-  resume_linkedin_url:          "https://www.linkedin.com/in/joelglovier"
+  resume_linkedin_url:          "https://www.linkedin.com/in/zijun-ma-931285aa/"
   # resume_instagram_url:         "insert your Instagram URL here"
-  resume_website_url:           "http://joelglovier.com"
-  resume_medium_url:            "https://medium.com/@jglovier"
-resume_print_social_links:      true
+  resume_website_url:           "https://mzj14.github.io/"
+  resume_medium_url:            false
+  resume_pdf_url:               "http://pages.cs.wisc.edu/~zijun/resume.pdf"
+resume_print_social_link:      false
 
 # Design settings
 resume_theme:                   default

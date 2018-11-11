@@ -1,19 +1,25 @@
 # Jobs
-# VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+- company: Dpt. of Computer Sciences, University of Wisconsin-Madison
+  position: Research Assistant
+  duration: 09/2018 &mdash; Present
+  location: WI, USA
+  summary: Supervised by Prof. Aditya Akella for Software Defined Networking research.
+  # summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
 
-# Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+- company: Baidu, Inc
+  position: Cloud Operation Engineer Intern
+  duration: 05/2018 &mdash; 07/2018
+  location: Beijing, China
+  summary: Supervised by manager Xibei Jia. Responsible for private cloud service monitoring and alert. <ul class="resume-item-list"><li>Used internal platforms (Noah and SiA) to monitor the speech-to-text server performance and set up relevant alerts.</li></ul>
 
+- company: INST of Network Sciences & Cyberspace of Tsinghua University
+  position: Research Assistant
+  duration: 03/2017 &mdash; 11/2017
+  location: Beijing, China
+  summary: Supervised by Prof. Jun Bi for Software Defined Networking research. <ul class="resume-item-list"><li>Designed a behavior-level caching mechanism for P4 programmable data plane.</li><li>Implemented typical network functions (e.g., forwarding, routing and ACL) using P4 programming language.</li><li>Evaluated the caching mechanism with typical network functions on two software targets - BMv2 and DPDK.</li></ul>
 
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+- company: UNI NOVA LIMITED
+  position: Front End Developer Intern
+  duration: 07/2016 &mdash; 09/2016
+  location: Beijing, China
+  summary: Supervised by CTO Peng Jiang. Responsible for front-end development of its official website. <ul class="resume-item-list"><li>Cooperated with Django CMS (Content Management System) to refactor the 'About us' and 'Help' pages.</li><li>Accomplished 'Frequently Asked Questions' page using Ajax.</li><li>Implemented the housing source selection mechanism based on check in or check out date using JavaScript.</li><li>Used front-end test package — Nightwatch.js to test key pages of the website.</li></ul>

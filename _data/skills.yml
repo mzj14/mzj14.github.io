@@ -1,12 +1,15 @@
 # Skills
 # Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+- skill: Computer Networking
+  description: None
 
 # Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+- skill: Linux Administration (with RHCE certification)
+  description: None
 
 # Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+# - skill: Programmable Packet Processing
+#  description: None
+
+- skill: C/C++/Shell/Python/P4
+  description: None
