@@ -1,6 +1,6 @@
 # Resume
 
-A resume build upon simple Jekyll + GitHub Pages powered template. Thanks for [@jglovier](https://github.com/jglovier/resume-template)
+A resume build upon simple Jekyll + GitHub Pages powered template. Thanks for [@jglovier](https://github.com/jglovier/resume-template).
 
 ## Running locally
 
