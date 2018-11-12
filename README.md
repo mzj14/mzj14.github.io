@@ -2,9 +2,9 @@
 
 A resume build upon simple Jekyll + GitHub Pages powered template. Thanks for [@jglovier](https://github.com/jglovier/resume-template).
 
-## Running locally
+## Run
 
-To test locally, run the following in your terminal:
+To run locally, run the following in your terminal:
 
 1. Clone repo locally
 1. `bundle install`
