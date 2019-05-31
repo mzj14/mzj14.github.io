@@ -12,11 +12,11 @@
   conference: IEEE International Symposium on Computers and Communications (ISCC)
   time: June 25-28, 2018
   location: Natal, Brazil
-  url: "http://netarchlab.tsinghua.edu.cn/~junbi/ISCC-2018.pdf"
+  url: "http://pages.cs.wisc.edu/~zijun/BCache.pdf"
 
 - paper: "CacheP4: A Behavior-level Caching Mechanism for P4"
   author: Zijun Ma, Jun Bi, Cheng Zhang, Yu Zhou, Abdul Basit Dogar
   conference: ACM International Conference on Data Communication (SIGCOMM) Posters and Demos
   time: August 22–24, 2017
   location: Los Angeles, CA, USA
-  url: "http://netarchlab.tsinghua.edu.cn/~junbi/SIGCOMM2017-5.pdf"
+  url: "http://pages.cs.wisc.edu/~zijun/CacheP4.pdf"
