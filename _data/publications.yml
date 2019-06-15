@@ -9,10 +9,10 @@
 
 - paper: "LoSee: Long-Range Shared Bike Communication System Based On LoRaWAN Protocol"
   author: Yuguang Yao, Zijun Ma and Zhichao Cao
-  conference: ACM International Conference on Embedded Wireless Systems and Networks (EWSN) Posters and Demos
+  conference: Workshop on Low Power Wide Area Networks for Internet of Things (LPNET)
   time: February 25-27, 2019
   location: Beijing, China
-  url: false
+  url: http://pages.cs.wisc.edu/~zijun/LoSee.pdf
   
 - paper: "B-Cache: A Behavior-Level Caching Framework for the Programmable Data Plane"
   author: Cheng Zhang, Jun Bi, Yu Zhou, Keyao Zhang, Zijun Ma
