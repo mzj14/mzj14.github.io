@@ -1,5 +1,12 @@
 # Projects
 
+- paper: "Adopting Linear Model to Accelerate Neural Network Training"
+  author: Yin Liu, Junyi Wei, Zijun Ma, Hanying Jiang, Yihan Zhang
+  conference: Midwest Machine Learning Symposium (MMLS)
+  time: June 6-7, 2019
+  location: Madison, WI, USA
+  url: "http://pages.cs.wisc.edu/~zijun/Linear_Model.pdf"
+
 - paper: "LoSee: Long-Range Shared Bike Communication System Based On LoRaWAN Protocol"
   author: Yuguang Yao, Zijun Ma and Zhichao Cao
   conference: ACM International Conference on Embedded Wireless Systems and Networks (EWSN) Posters and Demos
