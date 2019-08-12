@@ -23,7 +23,7 @@ resume_contact_address:         "Sheboygan Ave, Madison, Wisconsin"
 resume_header_contact_info:     "Sheboygan Ave, Madison • 608-598-7055 • mazijun2017@outlook.com"
 display_header_contact_info:    true
 
-resume_header_intro: <p>I am currently a first-year master student of Department of Computer Sciences in University of Wisconsin-Madison. My advisor is <a href="http://pages.cs.wisc.edu/~akella/">Prof. Aditya Akella</a>.<br/><br/>My research interest lies in the programmable data plane of software defined networking. In recent years, there is a trend to use the programmable data plane to offload services that traditionally reside in the network edge. Such a trend could lead to a more innovative network architecture and customized protocol design.</p>
+resume_header_intro: <p>I am currently a second-year master student of Department of Computer Sciences in University of Wisconsin-Madison. My advisor is <a href="http://pages.cs.wisc.edu/~akella/">Prof. Aditya Akella</a>.<br/><br/>My research interest lies in the programmable data plane of software defined networking. In recent years, there is a trend to use the programmable data plane to offload services that traditionally reside in the network edge. Such a trend could lead to a more innovative network architecture and customized protocol design.</p>
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,

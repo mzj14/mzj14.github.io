@@ -1,15 +1,22 @@
 # Jobs
+- company: Network Security Business Unit, VMware, Inc
+  position: Product Development Intern
+  duration: 05/2019 &mdash; 08/2019
+  location: Palo Alto, USA
+  summary: Supervised by manager Pradeep Singh. Responsible for centralizing cloud abstraction layer in VMware SDDC solution. <ul class="resume-item-list"><li>Programed a Remote Procedure Call channel between Layer 3 Update Daemon on ESX datapath and NSX management plane for VMotion message communication.</li><li>Configured virtual switches and routers on ESX datapath to build a broadcast domain to enhance the reachability of NSX manager under VMotion.</li><li>Adopted GraphQL to fix over-fetching and under-fetching problem in vCenter API during VMware 2019 Hackathon.</li></ul>
+
+
 - company: Dpt. of Computer Sciences, University of Wisconsin-Madison
   position: Research Assistant
   duration: 09/2018 &mdash; Present
   location: WI, USA
-  summary: Supervised by Prof. Aditya Akella for Software Defined Networking research.
+  summary: Supervised by Prof. Aditya Akella for Software Defined Networking research. <ul class="resume-item-list"><li>Analyzed performance loss of implementing complicated network protocols (e.g. RCP, pFabric) approximately on programmable switches through NS-3 simulations.</li><li>Exploring the mechanism of implementing complicated network protocols accurately by dividing labor on both CPUs and ASIC in Barefoot Tofino Switches.</li></ul>
 
 - company: Baidu, Inc
   position: Cloud Operation Engineer Intern
   duration: 05/2018 &mdash; 07/2018
   location: Beijing, China
-  summary: Supervised by manager Xibei Jia. Responsible for private cloud service monitoring and alert. <ul class="resume-item-list"><li>Used internal platforms (Noah and SiA) to monitor the speech-to-text server performance and set up relevant alerts.</li></ul>
+  summary: Supervised by manager Xibei Jia. Responsible for private cloud service monitoring and alert. <ul class="resume-item-list"><li>Extracted performance metrics from cloud servers to monitor via configuration file in JSON.</li><li>Visualized metric data for clusters via internal platform - Sia and Noah.</li><li>Added new performance alerts for cloud services (e.g., speech-to-text service).</li></ul>
 
 - company: INST of Network Sciences & Cyberspace of Tsinghua University
   position: Research Assistant
@@ -17,7 +24,7 @@
   location: Beijing, China
   summary: Supervised by Prof. Jun Bi for Software Defined Networking research. <ul class="resume-item-list"><li>Designed a behavior-level caching mechanism for P4 programmable data plane.</li><li>Implemented typical network functions (e.g., forwarding, routing and ACL) using P4 programming language.</li><li>Evaluated the caching mechanism with typical network functions on two software targets - BMv2 and DPDK.</li></ul>
 
-- company: UNI NOVA LIMITED
+- company: UNI NOVA LIMITED, Inc
   position: Front End Developer Intern
   duration: 07/2016 &mdash; 09/2016
   location: Beijing, China
