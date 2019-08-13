@@ -1,6 +1,6 @@
 # Site settings
 title: "Resume of Zijun Ma"
-description: "On-line resume for Zijun Ma."
+description: "Online resume for Zijun Ma."
 
 # Build settings
 markdown: kramdown
@@ -46,11 +46,11 @@ resume_social_links:
   resume_twitter_url:           false
   resume_dribbble_url:          false
   # resume_facebook_url:          "insert Facebook URL here"
-  resume_linkedin_url:          "https://www.linkedin.com/in/zijun-ma-931285aa/"
+  resume_linkedin_url:          "https://www.linkedin.com/in/zijun-ma/"
   # resume_instagram_url:         "insert your Instagram URL here"
   resume_website_url:           "https://mzj14.github.io/"
   resume_medium_url:            false
-  resume_pdf_url:               "http://pages.cs.wisc.edu/~zijun/VMware-Poster.pdf"
+  resume_pdf_url:               false
 resume_print_social_link:      false
 
 # Design settings
